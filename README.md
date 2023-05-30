@@ -5,9 +5,9 @@
  * @LastEditors    : MiruClay
  * @LastEditTime   : 2023-05-30 18:39:45
  * @Description    : README
- * @GitHub         : [https://github.com/yanyongyu](https://github.com/ddaayy)
+ * @GitHub         : [https://github.com/ddaayy]
 -->
-![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 [![NoneBot Version](https://img.shields.io/badge/nonebot-2+-red.svg)](https://v2.nonebot.dev/)
 [![Release](https://github.com/cscs181/QQ-GitHub-Bot/actions/workflows/release.yml/badge.svg?branch=master)](https://hub.docker.com/r/cscs181/qq-github-bot)
 
