@@ -12,9 +12,9 @@
 [![Release](https://github.com/cscs181/QQ-GitHub-Bot/actions/workflows/release.yml/badge.svg?branch=master)](https://hub.docker.com/r/cscs181/qq-github-bot)
 
 ![CQHTTP Version](https://img.shields.io/badge/CQHTTP%2011-Bot-black.svg?style=social)
-##功能：
+## 功能：
 随机一个东方图
-##命令：
+## 命令：
 看东方图
-##使用api：
+## 使用api：
 img.paulzzh.com
