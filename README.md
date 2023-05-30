@@ -1,0 +1,2 @@
+# nonebot_plugin_RandomTouhouPictures
+随机一个东方图
